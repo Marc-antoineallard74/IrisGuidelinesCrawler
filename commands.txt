@@ -1,0 +1,2 @@
+# ------------------------------------ ICD ----------------------------------- #
+bash scripts/crawlers/icd.sh -l en -h AIGuidelines/ICD -o ./datasets

@@ -1,0 +1,8 @@
+beautifulsoup4
+fitz
+pandas
+PyPDF2
+python-dotenv
+requests
+tqdm
+zarr
